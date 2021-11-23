@@ -1,3 +1,4 @@
+package com.company.bankAccountAlfa;
 public class Account
 {
     double balance = 0;

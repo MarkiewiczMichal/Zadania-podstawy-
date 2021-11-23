@@ -1,9 +1,9 @@
-package com.company.bankAccount_beta;
+package com.company.bankAccountAlfa;
+public class BankingTest
+{
 
-
-public class BankingTest {
-
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         Person janP = new Person("Jan"),
                 alaP = new Person("Ala");
 
@@ -25,4 +25,5 @@ public class BankingTest {
         System.out.println(jan);
         System.out.println(ala);
     }
+
 }

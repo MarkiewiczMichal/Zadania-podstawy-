@@ -1,8 +1,9 @@
-public class BankingTest
-{
+package com.company.bankAccountBeta;
 
-    public static void main(String[] args)
-    {
+
+public class BankingTest {
+
+    public static void main(String[] args) {
         Person janP = new Person("Jan"),
                 alaP = new Person("Ala");
 
@@ -23,8 +24,5 @@ public class BankingTest
 
         System.out.println(jan);
         System.out.println(ala);
-
-        
     }
-
 }

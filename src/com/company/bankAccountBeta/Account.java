@@ -1,4 +1,4 @@
-package com.company.bankAccount_beta;
+package com.company.bankAccountBeta;
 
 public class Account {
     private double balance = 0;

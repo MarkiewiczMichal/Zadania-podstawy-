@@ -1,3 +1,4 @@
+package com.company.bankAccountAlfa;
 public class Person
 {
     String name;

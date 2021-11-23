@@ -1,4 +1,4 @@
-package com.company.bankAccount_beta;
+package com.company.bankAccountBeta;
 
 public class Person {
     private String name;

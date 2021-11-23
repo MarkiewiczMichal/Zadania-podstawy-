@@ -1,3 +1,4 @@
+package com.company.bankAccountAlfa;
 public class BankCustomer
 {
     private Person person;
