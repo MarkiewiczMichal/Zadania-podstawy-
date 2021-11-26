@@ -1,6 +1,5 @@
 package com.company.bankAccountBeta;
 
-
 public class BankingTest {
 
     public static void main(String[] args) {
